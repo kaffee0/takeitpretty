@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>27_kurundeco-Regular.oft</string>
+		<string>Bansyu-retoromin-R.otf</string>
+		<string>GLT-CivilizationSans.otf</string>
+		<string>kitchenkatakana.ttf</string>
+		<string>ReceiptDisplayFont.ttf</string>
+		<string>sharp-logo.ttf</string>
+		<string>YDWbananaslipplus.otf</string>
+		<string>YDWyadewanoji.otf</string>
+		<string>YokohamaDotsJPN-Regular.otf</string>
+		<string>Kinkakuji-Normal.otf</string>
+		<string>Didot.ttc</string>
+		<string>GN-KillGothic-U-KanaNA.ttf</string>
+		<string>AmericanTypewriter.ttc</string>
+		<string>BigCaslon.ttf</string>
+		<string>Chalkboard.ttc</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+</dict>
+</plist>
